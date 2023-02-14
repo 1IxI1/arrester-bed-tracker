@@ -1,0 +1,12 @@
+env
+env/
+__pycache__/
+src_vids/normal/
+src_vids/edited/
+src_vids/new/small/
+src_vids/new/big/*
+!src_vids/new/big/8_215.mp4
+out/graphs/*
+out/centers/*
+!out/graphs/8_215.mp4.png
+!out/centers/8_215.mp4.txt
