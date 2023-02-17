@@ -9,5 +9,6 @@ src_vids/new/big/*
 !src_vids/new/big/8_215.mp4
 out/graphs/*
 out/centers/*
+out/csv/
 !out/graphs/8_215.mp4.png
 !out/centers/8_215.mp4.txt
